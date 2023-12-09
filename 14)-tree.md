@@ -125,8 +125,6 @@ Let's work with a class that implements a Node
 
 #### Traverse_forward
 ```python
-
-
         def __init__(self):
             """
             Initialize an empty Tree.

@@ -1,4 +1,4 @@
-Recursion is a technique wherein a function calls itself.
+🔃 Recursion is a technique wherein a function calls itself.
 
 Base case: It represents the simplest form of the problem.
 Recursive step: It denotes the smallest step that the function can take to resolve a problem.

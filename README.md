@@ -17,5 +17,5 @@ The purpose of this lessons are to demostrate by learning theorically, solving p
 ## Contact 
 For more information and support, please contact to: 
     Josue Benjamin Centurion,  
-    josuebcenturion@gmail.com,    
+    **josuebcenturion@gmail.com**,    
     *Web developer at [JoinScroll](https://joinscroll.com/)*

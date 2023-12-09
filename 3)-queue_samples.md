@@ -35,8 +35,7 @@ so our queue finally looks like this:
 ## Operations
 and how we make them possible: 
 
-- ✅
-**enqueue(value)** = queue.append(value)
+- ✅ **enqueue(value)** = queue.append(value)
 
 - ❌**dequeue(value)** = queue.pop(value)
 

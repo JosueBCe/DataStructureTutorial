@@ -43,9 +43,3 @@ print(intersection(C, D)) # Expected output { 3, 4 ,5 }
 
 print(what_is_different(C,D)) # Expected output { 1, 2 }
 
-def factorial(n):
-	if n <= 1:
-		return 1  # 1! = 1 (no recursion)
-	else:
-		return n * factorial(n-1)  
-     
